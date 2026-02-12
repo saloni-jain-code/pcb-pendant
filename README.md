@@ -84,6 +84,9 @@ Secure the copper board to the machine bed.
 6. Click **Carve**
 After carving, carefully remove the board and cut tabs manually if needed.
 
-### Soldering
+## Soldering
 Using the diagram below or the kicad files, solder the hardware components listed above accordingly.
+Note:
+- Ensure correct orientation of 555 timer chip (circle should be in top left and indicates ground)
+- Ensure correct orientation of LED (shorter end corresponds to ground)
 <img width="707" height="722" alt="Screenshot 2026-02-12 at 12 54 35 AM" src="https://github.com/user-attachments/assets/366ab773-fb47-4fb9-ae76-92f63527fa1e" />
