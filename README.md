@@ -1,5 +1,5 @@
-# Heart-Shaped 555 Timer PCB  
-PCB Milling Project – Creative Embedded Systems
+# PCB Pendant
+Creative Embedded Systems
 
 ## Overview
 
