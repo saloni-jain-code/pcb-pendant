@@ -15,14 +15,6 @@ This repository contains the design files and manufacturing exports necessary to
   - Drill holes
   - Board outline
 
-## Hardware Requirements
-- Carvey CNC machine (or comparable PCB-capable CNC)
-- 1/64" end mill (traces)
-- 1/32" end mill (outline)
-- Soldering iron and solder
-- CR2032 3V coin battery
-- CR2032 battery holder
-
 ## Materials and Components
 - Single-sided copper board for PCB
 - CR2032 3V coin battery
